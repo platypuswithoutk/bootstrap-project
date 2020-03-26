@@ -1,0 +1,178 @@
+body {
+    font-family: 'Raleway', sans-serif;
+  }
+
+  .container {
+    padding: 100px 0 100px 0;
+  }
+  
+  .navbar-brand {
+      font-size: 30px;
+  }
+
+  p {
+     color: rgb(252, 252, 252);
+  }
+  
+  a {
+    color: #1f1308;
+  }
+  
+  a:hover {
+    color: #030201;
+  }
+  
+  i {
+      color: white;
+  }
+  .btn-orange {
+    background-color: #e38f42;
+    color: #fff;
+  }
+  
+  .btn-orange:hover {
+    background-color: #e39042ad;
+    color: #fff;
+  }
+  
+  .btn-black {
+    background-color: rgba(0, 0, 0, 0.623);
+    color: #fff;
+  }
+  
+  .btn-black:hover {
+    background-color: rgba(0, 0, 0, 0.323);
+    color: #fff;
+  }
+  
+  /* Navigation */
+  .navbar {
+    background-color: #444;
+  }
+  
+  .navbar .container {
+    padding: 0;
+  }
+  
+  .navbar a {
+    color: #c2c2c2;
+  }
+  
+  .navbar a:hover {
+    color: #fff;
+  }
+  
+  /* Join us */
+  .join-us {
+    background-image: url(../img/mountaineering-2124113_1920.jpg);
+    background-size: cover;
+  }
+
+  .join-us form {
+    color: #c2c2c2;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .join-us form header{
+    padding: 20px;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .join-us form h2 {
+    color: #fff;
+  }
+  
+  .join-us form .fas {
+    font-size: 3.5rem;
+  }
+  .join-us form fieldset {
+    padding: 25px;
+  }
+  
+  .join-us form fieldset input,
+  .join-us form fieldset textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+  }
+  
+  .join-us .content-holder {
+    margin-top: 80px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .join-us .content-holder h1 {
+    font-weight: 700;
+  }
+
+  .blockquote {
+      font-size: 1.5rem;
+      color: black;
+  }
+
+  .blockquote-footer {
+      color: black;
+      font-size: 1.5rem;
+      padding-top: 10px;
+      padding-bottom: 20px;
+  }
+
+  .motivation {
+      font-size: 2rem;
+      padding-bottom: 10px;
+  }
+
+  .motivation p {
+      color: rgb(248, 248, 252);
+  }
+
+  iframe {
+    padding-top:30px;
+  }
+
+ .contact {
+    background-color: rgb(155, 153, 153);
+  }
+
+  .col-md-7 {
+    padding: 50px;
+  
+  }
+
+  .row {
+    justify-content: center;
+  }
+ 
+  .blockquote p {
+    padding-top: 50px;
+    color: rgb(32, 68, 114);
+    text-align: center;
+  }
+
+  .blockquote-footer {
+    text-align: right;
+    margin-right: 40px;
+    color: rgb(32, 68, 114);
+  }
+
+  h3 {
+    padding-top:30px;
+    text-align:center;
+  }
+
+  .col-md-6 {
+    text-align: center;
+    font-size: 1rem;
+    padding-bottom:10px;
+  }
+
+  h4 {
+    font-size: 30px;
+  }
+
+  a {
+    color: white;
+  }
