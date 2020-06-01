@@ -1,0 +1,42 @@
+@media screen and (max-width: 570px) {
+    .navbar-brand {
+        font-size: 30px;
+    }
+
+    .container {
+        padding : 30px; 
+    }
+
+    .row {
+        padding: 0px 30px;
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 1.7rem;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    .join-us form .fas {
+        font-size: 2.5rem;
+    }
+
+    .blockquote p {
+        padding-top: 0px;
+    }
+}
+
+@media screen and (max-width: 492px) {
+    .navbar-brand {
+        font-size: 25px;
+    }
+}
+
+@media screen and (max-width: 416px) {
+    .navbar-brand {
+        font-size: 20px;
+    }
+}
