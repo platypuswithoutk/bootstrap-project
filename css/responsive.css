@@ -1,3 +1,8 @@
+@media screen and (max-width: 1200px) {
+    .col-md-2 {
+        padding: 0;
+    }
+}
 @media screen and (max-width: 570px) {
     .navbar-brand {
         font-size: 30px;
@@ -35,13 +40,7 @@
     }
 }
 
-@media screen and (max-width: 416px) {
-    .navbar-brand {
-        font-size: 20px;
-    }
-}
-
-@media screen and (max-width: 358px) {
+@media screen and (max-width: 420px) {
     .navbar-brand {
         font-size: 20px;
     }
@@ -56,5 +55,11 @@
 
     .join-us .content-holder {
         margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .navbar-brand {
+        font-size: 18px;
     }
 }
